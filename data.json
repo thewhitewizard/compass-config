@@ -1,0 +1,23 @@
+[
+    {
+        "chainId": "421614",
+        "description": "arbitrum-sepolia",
+        "iapps": [
+            {
+                "key": "web3mail",
+                "address": "0x0000000000000000000000000000000000000000"
+            },
+            {
+                "key": "web3telegram",
+                "address": "0x0000000000000000000000000000000000000000"
+            }
+        ],
+        "workerpools": [
+            {
+                "name": "wp-throughput",
+                "apiUrl": "https://core.arbitrum-sepolia-testnet.iex.ec",
+                "address": "0x39c3cdd91a7f1c4ed59108a9da4e79de9a1c1b59"
+            }
+        ]
+    }
+]
